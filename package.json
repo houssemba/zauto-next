@@ -1,0 +1,16 @@
+{
+  "name": "zAutonext",
+  "version": "0.0.1",
+  "description": "ZAutoNext angular directive, move to the next form field automatically after validation",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Houssem BELHADJ AHMED",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.4.3",
+    "angular-mocks": "^1.4.3",
+    "karma": "^0.13.8"
+  }
+}
